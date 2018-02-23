@@ -10,3 +10,6 @@ Trustworthiness by product specialists | Efficient workflow (no backchecking)
 Timeline:
 March 12: Have initial product with 60% acuracy 
 
+Resources:
+1. Sample Memos - https://docs.google.com/spreadsheets/d/1HYxlTFqBudmEC5lOiwz9WJ7H7YhVcVdYuP5Po3AYFmk/edit?ts=5a8d0d89#gid=972324050
+2. Group Discussion Google Docs: https://docs.google.com/document/d/1WW1z-bXTzeIYGnq6hp5q2LpRRo5udU9NVw0GuWEL_IU/edit#
