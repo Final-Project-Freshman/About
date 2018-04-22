@@ -3,8 +3,7 @@ Information about our Project
 
 One-line Description: Extracts vendor name and vendor type from bank transaction memos. Focused on vendors from Bay Area, New York, and Boston. Made in collaboration with www.pilot.com.
 
-Percentage accuracy | 89%
-Trusted by product specialists | Efficient workflow (no back-checking)
+F1-score of 89% | Trusted by product specialists | Efficient workflow (no back-checking)
 
 ![Final Design](FinalDesign.PNG)
 
