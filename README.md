@@ -10,3 +10,5 @@ Using the Gestalt pattern matching algorithm, we compare the similarity between 
 If the similarity is larger than 60% , we provide the user with the output from the Machine Learning algorithm.
 Else, we will provide the user both outputs and flag it to be double checked manually.
 Thus, we increase the reliability of the automated categorization and simplify the manual categorization process with tentative recommendations.
+
+All training files, testing files, and any files that contain vendor information have been removed for privacy purposes.
