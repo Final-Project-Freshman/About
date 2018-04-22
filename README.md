@@ -1,15 +1,14 @@
 # About
 Information about our Project
 
-One-line Description: Extract vendor name and vendor type from bank transaction memos. We only focus on vendors from Bay Area, New York, Boston and we are collaborating with www.pilot.com. 
+One-line Description: Named Entity Recognition (NER) program made with both rule-based and machine learning models. Extracts vendor name and vendor type from bank transaction memos. Focused on vendors from Bay Area, New York, and Boston. Made in collaboration with www.pilot.com.
 
-Criteria for success:
-Percentage accuracy | 80%
-Trustworthiness by product specialists | Efficient workflow (no backchecking)
+Percentage accuracy | 89%
+Trusted by product specialists | Efficient workflow (no back-checking)
 
-Timeline:
-March 12: Have initial product with 60% acuracy 
+![Final Design](FinalDesign.PNG)
 
-Resources:
-1. Sample Memos - https://docs.google.com/spreadsheets/d/1HYxlTFqBudmEC5lOiwz9WJ7H7YhVcVdYuP5Po3AYFmk/edit?ts=5a8d0d89#gid=972324050
-2. Group Discussion Google Docs: https://docs.google.com/document/d/1WW1z-bXTzeIYGnq6hp5q2LpRRo5udU9NVw0GuWEL_IU/edit#
+Using the Gestalt pattern matching algorithm, we  compare the similarity between the outputs of both approaches to provide a confidence score.
+If the similarity is larger than 60% , we provide the user with the output from the Machine Learning algorithm.
+Else, we will provide the user both outputs and flag it to be double checked manually.
+Thus, we increase the reliability of the automated categorization and simplify the manual categorization process with tentative recommendations.
